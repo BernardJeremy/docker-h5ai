@@ -14,5 +14,5 @@ docker run \
 ```
 ## Configuration
 
-See [options.json](defaults/options.json) for default options.
+See [options.json](https://github.com/BernardJeremy/docker-h5ai/blob/master/defaults/options.json) for default options.
 Put you config file into the mounted directory pointing to the container's `/conf` (see the command above) 
